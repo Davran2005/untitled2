@@ -1,2 +1,4 @@
-package PACKAGE_NAME;public interface Study {
+public interface Study {
+   void getStudentsEducationCenter();
+   void getStudentsStudyingYear();
 }
